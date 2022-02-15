@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/chart_icon.png</file>
+     <file>icons/line_icon.png</file>
+     <file>icons/pie_icon.png</file>
+     <file>icons/candlestick_icon.png</file>
+     <file>icons/bar_icon.png</file>
+     <file>icons/back_icon.png</file>
+     <file>icons/add_row.png</file>
+     <file>icons/remove_row.png</file>
+     <file>icons/add_column.png</file>
+     <file>icons/remove_column.png</file>
+     <file>icons/first_axis_icon.png</file>
+     <file>icons/label_icon.png</file>
+     <file>icons/qt_charts_splash.jpg</file>
+ </qresource>
+ </RCC>
