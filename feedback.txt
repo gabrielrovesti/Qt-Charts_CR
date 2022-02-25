@@ -1,0 +1,39 @@
+Feedback Progetto di Programmazione ad Oggetti
+Studente: Rovesti Gabriel
+Valutazione del progetto: appena sufficiente
+Voto finale dell'esame: 23/30
+
+Vincoli obbligatori
+- Vincolo obbligatorio per i progetti di coppia non soddisfatto: almeno cinque
+  tipologie di chart. Sono state implementate solo quattro tipologie di chart.
+
+Orientamento ad oggetti
++ Incapsulamento
++ Estensibilità ed evolvibilità, polimorfismo
++ Efficienza e robustezza
+- Il progetto non e' modulare. In particolare, la classe base Chart estende il
+  plugin QChart. La modularita' richiede che la rappresentazione logica dei
+  dati e il framework per visualizzarli siano chiaramente divisi. La classe base
+  Chart dovrebbe rappresentare un grafico che sia indipendente dal framework
+  utilizzato per visualizzarlo graficamente.
+
+Funzionalità
++ Interessante la possibilita' di gestire manualmente i segmentation fault
++ Supporto XML e JSON per operazioni di I/O
+
+GUI
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Robusta, gestisce ridimensionamento
++ Buon uso di icone ed elementi grafici
+
+Relazione
+- Presenta numerosi errori grammaticali
+- Il manuale utente non riporta immagini
+- Descrizione troppo succinta dell'uso del polimorfismo
+- Nella rappresentazione delle classi, le frecce sono utilizzate in modo
+  scorretto. Sembra che Chart sia una sottoclasse di "exceptions"
+- Molto simile a quella del compagno, sono chiaramente di origine comune
+
+Suggerimenti non collegati alla valutazione
+Nessuno.
