@@ -1,6 +1,7 @@
 # Qt-Charts_CR
 
 --English--
+
 OOP Project for visualizing and editing Qt charts made for the OOP Course for CS, Padua
 
 Project done in pairs (using the Qt Charts plugin) to allow the visualization and modification of graphs
