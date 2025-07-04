@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grafici>
+    <grafico nome="Bar Chart" type="bar">
+        <data>
+            <labels value="1"/>
+            <values>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+            </values>
+        </data>
+        <options>
+            <option animazioni="0"/>
+            <option tema="0"/>
+            <option mostralegenda="0"/>
+            <option asseX="4">
+                <asseX value="A"/>
+                <asseX value="B"/>
+                <asseX value="C"/>
+                <asseX value="D"/>
+				<asseX value="E"/>
+            </option>
+            <option antialiasing="0"/>
+            <option isCiambella="0"/>
+        </options>
+    </grafico>
+
+    <grafico nome="Pie Chart" type="pie">
+        <data>
+            <labels value="1"/>
+            <values>
+                <value value="5"/>
+            </values>
+        </data>
+        <options>
+            <option animazioni="0"/>
+            <option tema="0"/>
+            <option mostralegenda="0"/>
+            <option antialiasing="0"/>
+            <option isCiambella="0"/>
+        </options>
+    </grafico>
+
+    <grafico nome="Candlestick Chart" type="CandleStick">
+        <data>
+            <labels value="1"/>
+            <values>
+                <value value="1"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+            </values>
+        </data>
+        <options>
+            <option animazioni="0"/>
+            <option tema="0"/>
+            <option mostralegenda="0"/>
+            <option asseX="1">
+                <asseX value="A"/>
+            </option>
+            <option antialiasing="0"/>
+            <option isCiambella="0"/>
+        </options>
+    </grafico>
+
+    <grafico nome="Line Chart" type="line">
+        <data>
+            <labels value="1"/>
+            <values>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+            </values>
+        </data>
+        <options>
+            <option animazioni="0"/>
+            <option tema="0"/>
+            <option mostralegenda="0"/>
+            <option asseX="4">
+                <asseX value="A"/>
+                <asseX value="B"/>
+                <asseX value="C"/>
+                <asseX value="D"/>
+				<asseX value="E"/>
+            </option>
+            <option antialiasing="0"/>
+            <option isCiambella="0"/>
+        </options>
+    </grafico>
+
+</grafici>

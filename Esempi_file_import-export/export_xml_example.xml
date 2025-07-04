@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grafici>
+    <grafico nome="Line Chart" type="line">
+        <data>
+            <labels value="1"/>
+            <values>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+                <value value="0"/>
+            </values>
+        </data>
+        <options>
+            <option isCiambella="0"/>
+            <option animazioni="0"/>
+            <option tema="0"/>
+            <option mostralegenda="0"/>
+            <option asseX="5">
+                <asseX value="A"/>
+                <asseX value="B"/>
+                <asseX value="C"/>
+                <asseX value="D"/>
+                <asseX value="1"/>
+            </option>
+            <option antialiasing="0"/>
+            <grafico nome="Candlestick Chart" type="CandleStick">
+                <data>
+                    <labels value="1"/>
+                    <values>
+                        <value value="1"/>
+                        <value value="0"/>
+                        <value value="0"/>
+                        <value value="0"/>
+                        <value value="0"/>
+                    </values>
+                </data>
+                <options>
+                    <option isCiambella="0"/>
+                    <option animazioni="0"/>
+                    <option tema="0"/>
+                    <option mostralegenda="0"/>
+                    <option asseX="1">
+                        <asseX value="1"/>
+                    </option>
+                    <option antialiasing="0"/>
+                </options>
+            </grafico>
+        </options>
+    </grafico>
+</grafici>

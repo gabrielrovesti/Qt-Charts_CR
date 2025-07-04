@@ -1,0 +1,189 @@
+{
+    "CandleStick": {
+        "data": [
+            {
+                "label": "1",
+                "values": [
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "nome": "Candlestick Chart",
+        "options": [
+            {
+                "tema": [
+                    "0"
+                ]
+            },
+            {
+                "mostralegenda": [
+                    "0"
+                ]
+            },
+            {
+                "antialiasing": [
+                    "0"
+                ]
+            },
+            {
+                "animazioni": [
+                    "0"
+                ]
+            },
+            {
+                "isCiambella": [
+                    "0"
+                ]
+            },
+            {
+                "asseX": [
+                    "1"
+                ]
+            }
+        ]
+    },
+    "bar": {
+        "data": [
+            {
+                "label": "1",
+                "values": [
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "nome": "Bar Chart",
+        "options": [
+            {
+                "tema": [
+                    "0"
+                ]
+            },
+            {
+                "mostralegenda": [
+                    "0"
+                ]
+            },
+            {
+                "antialiasing": [
+                    "0"
+                ]
+            },
+            {
+                "animazioni": [
+                    "0"
+                ]
+            },
+            {
+                "isCiambella": [
+                    "0"
+                ]
+            },
+            {
+                "asseX": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ]
+            }
+        ]
+    },
+    "line": {
+        "data": [
+            {
+                "label": "1",
+                "values": [
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "nome": "Line Chart",
+        "options": [
+            {
+                "tema": [
+                    "0"
+                ]
+            },
+            {
+                "mostralegenda": [
+                    "0"
+                ]
+            },
+            {
+                "antialiasing": [
+                    "0"
+                ]
+            },
+            {
+                "animazioni": [
+                    "0"
+                ]
+            },
+            {
+                "isCiambella": [
+                    "0"
+                ]
+            },
+            {
+                "asseX": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E"
+                ]
+            }
+        ]
+    }, 
+	"pie": {
+        "data": [
+            {
+                "label": "1",
+                "values": [
+                    "0"
+                ]
+            }
+        ],
+        "nome": "Pie Chart",
+        "options": [
+            {
+                "tema": [
+                    "0"
+                ]
+            },
+            {
+                "mostralegenda": [
+                    "0"
+                ]
+            },
+            {
+                "antialiasing": [
+                    "0"
+                ]
+            },
+            {
+                "animazioni": [
+                    "0"
+                ]
+            },
+            {
+                "isCiambella": [
+                    "1"
+                ]
+            }
+        ]
+    }
+}

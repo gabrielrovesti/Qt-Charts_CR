@@ -1,0 +1,49 @@
+{
+    "CandleStick": {
+        "data": [
+            {
+                "label": "1",
+                "values": [
+                    "1",
+                    "5",
+                    "0",
+                    "0",
+                    "5"
+                ]
+            }
+        ],
+        "nome": "Candlestick Chart",
+        "options": [
+            {
+                "animazioni": [
+                    "0"
+                ]
+            },
+            {
+                "tema": [
+                    "0"
+                ]
+            },
+            {
+                "antialiasing": [
+                    "0"
+                ]
+            },
+            {
+                "mostralegenda": [
+                    "0"
+                ]
+            },
+            {
+                "isCiambella": [
+                    "0"
+                ]
+            },
+            {
+                "asseX": [
+                    "1"
+                ]
+            }
+        ]
+    }
+}
